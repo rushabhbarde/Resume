@@ -1,0 +1,72 @@
+.Heading{
+    display: flex;
+}
+.objective{
+    flex: 3;
+    background-color: #F0F1FA;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+.contact{
+    text-align: end;
+    flex: 1;
+    margin: 5px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.body{
+    display: flex;
+    line-height: normal;
+}
+.left{
+    flex: 3;
+    padding: 10px;
+    margin: 5px;
+}
+.right{
+    flex: 2;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    background-color: #F0F1FA;
+}
+.college, .highschool, .school{
+    display: flex;
+    background-color: white;
+    border-radius: 8px;
+}
+.govt, .saraswati, .swarnleela{
+    flex: 1;
+    padding: 10px;
+
+}
+.degree, .hsc, .ssc{
+    flex: 1;
+    text-align: end;
+    padding: 10px;
+
+}
+.highschool{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color:lightcoral
+}
+.knowledgep{
+    display: flex;
+}
+.domain{
+    flex: 1;
+    padding-left: 10px;
+    
+}
+.meter{
+    flex: 1;
+    height: 5px;
+    margin-top: 24px;
+    margin-right: 10px;
+    background-color:cadetblue;
+}
